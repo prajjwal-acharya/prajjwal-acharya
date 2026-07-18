@@ -29,7 +29,7 @@
 <!-- Live Status Bar -->
 <p>
   <img src="https://img.shields.io/badge/STATUS-Building%20in%20Public-00ff00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/LOCATION-Cloud-00d4ff?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/FOCUS-AI%20Systems-00d4ff?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0d1117">
   <img src="https://img.shields.io/badge/MODE-Distributed-ff6b6b?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d1117">
 </p>
 
@@ -48,10 +48,11 @@
 │      /\          prajjwal-acharya@github                                    │
 │     /  \         ─────────────────                                          │
 │    /    \        OS: macOS 15 (Sequoia)                                     │
-│   /______\       Uptime: 4+ years building                                  │
+│   /______\       Uptime: 2+ years building                                  │
 │  /|      |\      Shell: zsh + Starship prompt                               │
 │   |      |       DE: Neovim + Tmux + Ghostty                                │
-│   |      |       WM: Aerospace (tiling everything, including problems)      │
+│   |      |       Focus: AI Infrastructure | Distributes Sys | DevTools      |
+|   |      |       WM: Aerospace (tiling everything, including problems)      │
 │   |______|       Theme: Dracula                                             │
 │                                                                             |
 │                                                                             │
