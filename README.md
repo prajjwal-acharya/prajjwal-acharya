@@ -61,56 +61,6 @@
 </div>
 
 ---
-
-<!-- Tech Stack Matrix -->
-<div align="center">
-
-### ⚙️ SYSTEM ARCHITECTURE
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                           INFRASTRUCTURE LAYER                              │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐ │
-│  │   Docker    │  │ Kubernetes  │  │   AWS/GCP   │  │   Terraform/Pulumi  │ │
-│  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────────────┘ │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                         BACKEND & SYSTEMS LAYER                             │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐ │
-│  │    Rust     │  │    Go       │  │   Python    │  │   Node.js/TS        │ │
-│  │  (systems)  │  │  (services) │  │   (ML/AI)   │  │   (rapid proto)     │ │
-│  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────────────┘ │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                         DATA & AI LAYER                                     │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐ │
-│  │  PostgreSQL │  │    Redis    │  │  Kafka/Pulsar│  │  LLM Orchestration │ │
-│  │   (primary) │  │   (cache)   │  │  (streaming) │  │  (LangChain/LLama) │ │
-│  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────────────┘ │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                         OBSERVABILITY LAYER                                 │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐ │
-│  │  Prometheus │  │    Grafana  │  │    Jaeger   │  │   OpenTelemetry     │ │
-│  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────────────┘ │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- GitHub Stats with Terminal Styling -->
-<div align="center">
-
-### 📊 SYSTEM METRICS
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prajjwal-acharyaE&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d4ff&text_color=c9d1d9" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal-acharya&theme=dracula&hide_border=true&background=0d1117&stroke=ff6b6b&ring=00d4ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="165">
-</p>
-
-</div>
-
----
-
 <!-- Footer Terminal -->
 <div align="center">
 
@@ -128,6 +78,20 @@
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+<!-- GitHub Stats with Terminal Styling -->
+<div align="center">
+
+### 📊 SYSTEM METRICS
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=prajjwal-acharyaE&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d4ff&text_color=c9d1d9" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal-acharya&theme=dracula&hide_border=true&background=0d1117&stroke=ff6b6b&ring=00d4ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="165">
+</p>
+
+</div>
+
+---
 
 <!-- Dynamic Visitor Counter -->
 <p>
