@@ -15,8 +15,8 @@
 ║   ██╔══██╗██╔══██╗██╔══██╗     ██║     ██║██║    ██║██╔══██╗██║          ║
 ║   ██████╔╝██████╔╝███████║     ██║     ██║██║ █╗ ██║███████║██║          ║
 ║   ██╔═══╝ ██╔══██╗██╔══██║     ██║     ██║██║███╗██║██╔══██║██║          ║
-║   ██║     ██║  ██║██║  ██║ █████████████╗██║╚███╔███╔╝██║  ██║███████╗   ║
-║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╚══════╝╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝   ║
+║   ██║     ██║  ██║██║  ██║ ███████████╗██║╚███╔███╔╝██║  ██║███████╗     ║
+║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╚════╝╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝     ║ 
 ║                                                                          ║
 ║              ┌──────────────────────────────────────────┐                ║
 ║              │  AI Systems Engineer • Backend • Builder │                ║
@@ -97,34 +97,6 @@
 
 ---
 
-<!-- Learning Radar -->
-<div align="center">
-
-### 📡 CURRENT SIGNALS
-
-```
-         Distributed Systems
-                ▲
-                │         LLM Infrastructure
-                │              ▲
-                │             ╱ ╲
-                │            ╱   ╲
-                │           ╱     ╲
-    Cloud ◄─────┼──────────┼───────┼─────► Open Source
-    Engineering │           ╲     ╱
-                │            ╲   ╱
-                │             ╲ ╱
-                │              ▼
-                │        DevTools & DX
-                │
-                ▼
-         [ SIGNAL STRENGTH: MAXIMUM ]
-```
-
-</div>
-
----
-
 <!-- GitHub Stats with Terminal Styling -->
 <div align="center">
 
@@ -134,20 +106,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d4ff&text_color=c9d1d9" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true&background=0d1117&stroke=ff6b6b&ring=00d4ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="165">
 </p>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  prajjwal@github:~$ uptime                                                  │
-│  > 16:42:07 up 1460 days, 3:14, 1 user, load average: 0.52, 0.48, 0.41      │
-│                                                                             │
-│  prajjwal@github:~$ ps aux | grep creativity                                │
-│  > PID   USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ CMD  │
-│  > 1337  prajjwal  20   0  4194304 1048576  4096 R  99.9 42.0 999:99.99     │
-│                                                                             │
-│  prajjwal@github:~$ echo $MOTTO                                             │
-│  > "Build systems that outlive the hype cycles"                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
