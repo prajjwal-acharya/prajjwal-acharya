@@ -41,30 +41,21 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  prajjwal@github:~$ neofetch                                                  │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│      /\          prajjwal@github                                             │
-│     /  \         ─────────────────                                           │
-│    /    \        OS: Arch Linux (btw)                                        │
-│   /______\       Uptime: 4+ years building                                   │
-│  /|      |\      Shell: zsh + custom prompts                                │
-│   |  👁️  |       DE: Neovim + Tmux + Alacritty                              │
-│   |      |       WM: i3 (tiling everything, including problems)             │
-│   |______|       Theme: Dracula                                              │
-│                                                                              │
-│  prajjwal@github:~$ cat /proc/cpuinfo | grep "model name" | head -1          │
-│  > Intel(R) Curiosity(TM) @ 4.2GHz (unlocked, overclocked on coffee)         │
-│                                                                              │
-│  prajjwal@github:~$ ls ~/current_projects/                                   │
-│  > extract-it/    gridbyte/    prajjwalacharya.dev/    oss-contributions/    │
-│                                                                              │
-│  prajjwal@github:~$ df -h ~/knowledge/                                       │
-│  > Filesystem      Size  Used Avail Use% Mounted on                          │
-│  > /dev/brain0    100T   73T   27T  73%  /knowledge                          │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  prajjwal@github:~ neofetch                                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│      /\          prajjwal-acharya@github                                    │
+│     /  \         ─────────────────                                          │
+│    /    \        OS: macOS 15 (Sequoia)                                     │
+│   /______\       Uptime: 4+ years building                                  │
+│  /|      |\      Shell: zsh + Starship prompt                               │
+│   |      |       DE: Neovim + Tmux + Ghostty                                │
+│   |      |       WM: Aerospace (tiling everything, including problems)      │
+│   |______|       Theme: Dracula                                             │
+│                                                                             |
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -78,24 +69,24 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                           INFRASTRUCTURE LAYER                               │
+│                           INFRASTRUCTURE LAYER                              │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐ │
 │  │   Docker    │  │ Kubernetes  │  │   AWS/GCP   │  │   Terraform/Pulumi  │ │
 │  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────────────┘ │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│                         BACKEND & SYSTEMS LAYER                              │
+│                         BACKEND & SYSTEMS LAYER                             │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐ │
 │  │    Rust     │  │    Go       │  │   Python    │  │   Node.js/TS        │ │
 │  │  (systems)  │  │  (services) │  │   (ML/AI)   │  │   (rapid proto)     │ │
 │  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────────────┘ │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│                         DATA & AI LAYER                                      │
+│                         DATA & AI LAYER                                     │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐ │
 │  │  PostgreSQL │  │    Redis    │  │  Kafka/Pulsar│  │  LLM Orchestration │ │
 │  │   (primary) │  │   (cache)   │  │  (streaming) │  │  (LangChain/LLama) │ │
 │  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────────────┘ │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│                         OBSERVABILITY LAYER                                  │
+│                         OBSERVABILITY LAYER                                 │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐ │
 │  │  Prometheus │  │    Grafana  │  │    Jaeger   │  │   OpenTelemetry     │ │
 │  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────────────┘ │
@@ -120,10 +111,10 @@
                 │            ╱   ╲
                 │           ╱     ╲
     Cloud ◄─────┼──────────┼───────┼─────► Open Source
-    Engineering │          ╲     ╱
-                │           ╲   ╱
-                │            ╲ ╱
-                │             ▼
+    Engineering │           ╲     ╱
+                │            ╲   ╱
+                │             ╲ ╱
+                │              ▼
                 │        DevTools & DX
                 │
                 ▼
@@ -150,8 +141,8 @@
 │  > 16:42:07 up 1460 days, 3:14, 1 user, load average: 0.52, 0.48, 0.41      │
 │                                                                             │
 │  prajjwal@github:~$ ps aux | grep creativity                                │
-│  > PID   USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ CMD │
-│  > 1337  prajjwal  20   0  4194304 1048576  4096 R  99.9 42.0 999:99.99   │
+│  > PID   USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ CMD  │
+│  > 1337  prajjwal  20   0  4194304 1048576  4096 R  99.9 42.0 999:99.99     │
 │                                                                             │
 │  prajjwal@github:~$ echo $MOTTO                                             │
 │  > "Build systems that outlive the hype cycles"                             │
@@ -170,13 +161,12 @@
 ║                                                                              ║
 ║   prajjwal@github:~$ ./connect.sh                                            ║
 ║                                                                              ║
-║   [1] 🐦  Twitter/X    →  @prajjwalacharya                                    ║
-║   [2] 💼  LinkedIn     →  /in/prajjwalacharya                                ║
-║   [3] 🌐  Website      →  prajjwalacharya.dev                                ║
-║   [4] 📧  Email        →  hello@prajjwalacharya.dev                          ║
-║   [5] 📝  Blog         →  prajjwalacharya.dev/blog                             ║
+║   [1] 🐦  Twitter/X    →  @acharya1729                                       ║
+║   [2] 💼  LinkedIn     →  /in/prajjwal-acharya-9a4a26325/                    ║
+║   [3] 🌐  Website      →  prajjwalacharya.com                                ║
+║   [4] 📧  Email        →  contact@prajjwalacharya.com                        ║        
 ║                                                                              ║
-║   prajjwal@github:~$ █                                                      ║
+║   prajjwal@github:~$ █                                                       ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
