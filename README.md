@@ -93,11 +93,6 @@
 
 ---
 
-<!-- Dynamic Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com" alt="SYSTEM VISITS">
-</p>
-
 </div>
 
 <!-- 
