@@ -94,8 +94,8 @@
 ---
 
 <!-- Dynamic Visitor Counter -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=prajjwal-acharya&color=00d4ff&style=flat-square&label=SYSTEM+VISITS">
+<p align="center">
+  <img src="https://komarev.com" alt="SYSTEM VISITS">
 </p>
 
 </div>
