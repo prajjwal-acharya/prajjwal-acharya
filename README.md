@@ -122,7 +122,7 @@
 ║   [1] 🐦  Twitter/X    →  @acharya1729                                       ║
 ║   [2] 💼  LinkedIn     →  /in/prajjwal-acharya-9a4a26325/                    ║
 ║   [3] 🌐  Website      →  prajjwalacharya.com                                ║
-    ║   [4] 📧  Email        →  contact@prajjwalacharya.com                        ║        
+        ║   [4] 📧  Email        →  contact@prajjwalacharya.com                        ║        
 ║                                                                              ║
 ║   prajjwal@github:~$ █                                                       ║
 ║                                                                              ║
