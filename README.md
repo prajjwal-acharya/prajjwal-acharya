@@ -16,7 +16,7 @@
 ║   ██████╔╝██████╔╝███████║     ██║     ██║██║ █╗ ██║███████║██║          ║
 ║   ██╔═══╝ ██╔══██╗██╔══██║     ██║     ██║██║███╗██║██╔══██║██║          ║
 ║   ██║     ██║  ██║██║  ██║ ███████████╗██║╚███╔███╔╝██║  ██║███████╗     ║
-║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╚════╝╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝     ║ 
+ ║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╚════╝╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝     ║ 
 ║                                                                          ║
 ║              ┌──────────────────────────────────────────┐                ║
 ║              │  AI Systems Engineer • Backend • Builder │                ║
@@ -103,8 +103,8 @@
 ### 📊 SYSTEM METRICS
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d4ff&text_color=c9d1d9" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true&background=0d1117&stroke=ff6b6b&ring=00d4ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajjwal-acharyaE&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00d4ff&text_color=c9d1d9" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal-acharya&theme=dracula&hide_border=true&background=0d1117&stroke=ff6b6b&ring=00d4ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="165">
 </p>
 
 </div>
@@ -122,7 +122,7 @@
 ║   [1] 🐦  Twitter/X    →  @acharya1729                                       ║
 ║   [2] 💼  LinkedIn     →  /in/prajjwal-acharya-9a4a26325/                    ║
 ║   [3] 🌐  Website      →  prajjwalacharya.com                                ║
-║   [4] 📧  Email        →  contact@prajjwalacharya.com                        ║        
+    ║   [4] 📧  Email        →  contact@prajjwalacharya.com                        ║        
 ║                                                                              ║
 ║   prajjwal@github:~$ █                                                       ║
 ║                                                                              ║
@@ -131,7 +131,7 @@
 
 <!-- Dynamic Visitor Counter -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d4ff&style=flat-square&label=SYSTEM+VISITS">
+  <img src="https://komarev.com/ghpvc/?username=prajjwal-acharya&color=00d4ff&style=flat-square&label=SYSTEM+VISITS">
 </p>
 
 </div>
